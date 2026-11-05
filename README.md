@@ -14,6 +14,11 @@ I'm a CSE student at Sahyadri College of Engineering and Management, passionate 
 🚀 Building practical applications and exploring emerging technologies
 
 ---
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nodejs,express,fastapi,flask,mysql,mongodb,postgres,git,github,vscode" />
+
+</div>
 
 ## 🛠️ Tech Stack
 
