@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aasim+Shaibani;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Matter" />
+
+</div>
 # 👋 Hi, I'm Aasim Shaibani
 
 ### Computer Science Engineering Student | Full-Stack Developer | AI/ML Enthusiast
