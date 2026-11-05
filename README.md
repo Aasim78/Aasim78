@@ -13,8 +13,6 @@ I'm a CSE student at Sahyadri College of Engineering and Management, passionate 
 💻 Full-Stack Development | Artificial Intelligence | Machine Learning  
 🚀 Building practical applications and exploring emerging technologies
 
----
-
 <div align="center">
 
 <a href="https://linkedin.com/in/mdaasim01">
@@ -30,6 +28,8 @@ I'm a CSE student at Sahyadri College of Engineering and Management, passionate 
 </a>
 
 </div>
+
+---
 
 ## 🛠️ Tech Stack
 
