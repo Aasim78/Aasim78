@@ -15,6 +15,22 @@ I'm a CSE student at Sahyadri College of Engineering and Management, passionate 
 
 ---
 
+<div align="center">
+
+<a href="https://linkedin.com/in/mdaasim01">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Aasim78">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://mdaasim.tech">
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome" />
+</a>
+
+</div>
+
 ## 🛠️ Tech Stack
 
 **Languages:** C, C++, Python, Java, JavaScript
