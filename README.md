@@ -1,5 +1,20 @@
 <div align="center">
 
+<a href="https://linkedin.com/in/mdaasim01">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Aasim78">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://mdaasim.tech">
+<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome" />
+</a>
+
+</div>
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aasim+Shaibani;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Projects+That+Matter" />
 
 </div>
@@ -14,22 +29,6 @@ I'm a CSE student at Sahyadri College of Engineering and Management, passionate 
 🚀 Building practical applications and exploring emerging technologies
 
 ---
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mdaasim01">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/Aasim78">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://mdaasim.tech">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=googlechrome" />
-</a>
-
-</div>
 
 ## 🛠️ Tech Stack
 
