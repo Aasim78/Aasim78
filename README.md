@@ -30,13 +30,17 @@ I'm a CSE student at Sahyadri College of Engineering and Management, passionate 
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<div align="center">
+**Languages:** C, C++, Python, Java, JavaScript
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,vite,nodejs,express,flask,fastapi,mysql,mongodb,postgres,git,github,vscode" />
+**Frontend:** HTML, CSS, React.js, Vite, Bootstrap
 
-</div>
+**Backend:** Node.js, Express.js, Flask, FastAPI
+
+**Databases:** MySQL, PostgreSQL, MongoDB
+
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Ollama
 
 <div align="center">
 
